@@ -3932,12 +3932,12 @@
   },
   "project": {
     "restore": {
-      "projectUniqueName": "C:\\Users\\petar\\Downloads\\MoMoChat_Xamarin_Forms\\Droid\\MoMoChat.Droid.csproj",
+      "projectUniqueName": "D:\\SourceControl\\MoMo\\AzureEasyTables\\Droid\\MoMoChat.Droid.csproj",
       "projectName": "MoMoChat.Droid",
-      "projectPath": "C:\\Users\\petar\\Downloads\\MoMoChat_Xamarin_Forms\\Droid\\MoMoChat.Droid.csproj",
-      "projectJsonPath": "C:\\Users\\petar\\Downloads\\MoMoChat_Xamarin_Forms\\Droid\\project.json",
+      "projectPath": "D:\\SourceControl\\MoMo\\AzureEasyTables\\Droid\\MoMoChat.Droid.csproj",
+      "projectJsonPath": "D:\\SourceControl\\MoMo\\AzureEasyTables\\Droid\\project.json",
       "packagesPath": "C:\\Users\\petar\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\petar\\Downloads\\MoMoChat_Xamarin_Forms\\Droid\\obj\\",
+      "outputPath": "D:\\SourceControl\\MoMo\\AzureEasyTables\\Droid\\obj\\",
       "projectStyle": "ProjectJson",
       "configFilePaths": [
         "C:\\Users\\petar\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -3951,8 +3951,8 @@
       "frameworks": {
         "monoandroid71": {
           "projectReferences": {
-            "C:\\Users\\petar\\Downloads\\MoMoChat_Xamarin_Forms\\MoMoChat\\MoMoChat.csproj": {
-              "projectPath": "C:\\Users\\petar\\Downloads\\MoMoChat_Xamarin_Forms\\MoMoChat\\MoMoChat.csproj"
+            "D:\\SourceControl\\MoMo\\AzureEasyTables\\MoMoChat\\MoMoChat.csproj": {
+              "projectPath": "D:\\SourceControl\\MoMo\\AzureEasyTables\\MoMoChat\\MoMoChat.csproj"
             }
           }
         }

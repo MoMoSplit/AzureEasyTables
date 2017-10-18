@@ -4707,12 +4707,12 @@
   },
   "project": {
     "restore": {
-      "projectUniqueName": "C:\\Users\\petar\\Downloads\\MoMoChat_Xamarin_Forms\\MoMoChat\\MoMoChat.csproj",
+      "projectUniqueName": "D:\\SourceControl\\MoMo\\AzureEasyTables\\MoMoChat\\MoMoChat.csproj",
       "projectName": "MoMoChat",
-      "projectPath": "C:\\Users\\petar\\Downloads\\MoMoChat_Xamarin_Forms\\MoMoChat\\MoMoChat.csproj",
-      "projectJsonPath": "C:\\Users\\petar\\Downloads\\MoMoChat_Xamarin_Forms\\MoMoChat\\project.json",
+      "projectPath": "D:\\SourceControl\\MoMo\\AzureEasyTables\\MoMoChat\\MoMoChat.csproj",
+      "projectJsonPath": "D:\\SourceControl\\MoMo\\AzureEasyTables\\MoMoChat\\project.json",
       "packagesPath": "C:\\Users\\petar\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\petar\\Downloads\\MoMoChat_Xamarin_Forms\\MoMoChat\\obj\\",
+      "outputPath": "D:\\SourceControl\\MoMo\\AzureEasyTables\\MoMoChat\\obj\\",
       "projectStyle": "ProjectJson",
       "configFilePaths": [
         "C:\\Users\\petar\\AppData\\Roaming\\NuGet\\NuGet.Config",

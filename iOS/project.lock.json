@@ -4524,12 +4524,12 @@
   },
   "project": {
     "restore": {
-      "projectUniqueName": "C:\\Users\\petar\\Downloads\\MoMoChat_Xamarin_Forms\\iOS\\MoMoChat.iOS.csproj",
+      "projectUniqueName": "D:\\SourceControl\\MoMo\\AzureEasyTables\\iOS\\MoMoChat.iOS.csproj",
       "projectName": "MoMoChat.iOS",
-      "projectPath": "C:\\Users\\petar\\Downloads\\MoMoChat_Xamarin_Forms\\iOS\\MoMoChat.iOS.csproj",
-      "projectJsonPath": "C:\\Users\\petar\\Downloads\\MoMoChat_Xamarin_Forms\\iOS\\project.json",
+      "projectPath": "D:\\SourceControl\\MoMo\\AzureEasyTables\\iOS\\MoMoChat.iOS.csproj",
+      "projectJsonPath": "D:\\SourceControl\\MoMo\\AzureEasyTables\\iOS\\project.json",
       "packagesPath": "C:\\Users\\petar\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\petar\\Downloads\\MoMoChat_Xamarin_Forms\\iOS\\obj\\",
+      "outputPath": "D:\\SourceControl\\MoMo\\AzureEasyTables\\iOS\\obj\\",
       "projectStyle": "ProjectJson",
       "configFilePaths": [
         "C:\\Users\\petar\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -4543,8 +4543,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "C:\\Users\\petar\\Downloads\\MoMoChat_Xamarin_Forms\\MoMoChat\\MoMoChat.csproj": {
-              "projectPath": "C:\\Users\\petar\\Downloads\\MoMoChat_Xamarin_Forms\\MoMoChat\\MoMoChat.csproj"
+            "D:\\SourceControl\\MoMo\\AzureEasyTables\\MoMoChat\\MoMoChat.csproj": {
+              "projectPath": "D:\\SourceControl\\MoMo\\AzureEasyTables\\MoMoChat\\MoMoChat.csproj"
             }
           }
         }
